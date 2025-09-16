@@ -1,0 +1,15 @@
+target/*
+target/demo-0.0.1-SNAPSHOT.jar
+target/demo-0.0.1-SNAPSHOT.jar.original
+target/classes/com/fajarstevanus/startjava/demo/DemoApplication.class
+target/classes/com/fajarstevanus/startjava/demo/controller/Greeting.class
+target/classes/com/fajarstevanus/startjava/demo/controller/HelloWorld.class
+target/classes/com/fajarstevanus/startjava/demo/model/dto/Greeting.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/surefire-reports/com.fajarstevanus.startjava.demo.DemoApplicationTests.txt
+target/surefire-reports/TEST-com.fajarstevanus.startjava.demo.DemoApplicationTests.xml
+target/test-classes/com/fajarstevanus/startjava/demo/DemoApplicationTests.class
